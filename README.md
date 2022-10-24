@@ -3,7 +3,7 @@
 1. Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
 
 ***
-![hızlıresim]([url=https://www.hizliresim.com/m413yby][img]https://i.hizliresim.com/m413yby.png[/img][/url]) 
+![hızlıresim](url=https://www.hizliresim.com/m413yby][img]https://i.hizliresim.com/m413yby.png) 
 ***
 
 2. Big-O gösterimini yazınız.
