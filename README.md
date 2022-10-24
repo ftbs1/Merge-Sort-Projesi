@@ -10,3 +10,5 @@
 
 - 2ˣ = O(nlogn)
 - 2⁶ = O(nlogn) 
+
+### Patika.dev  [FUAT BİŞİ](https://app.patika.dev/ftbs)
